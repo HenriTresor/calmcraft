@@ -1,5 +1,4 @@
 import { BotMessageSquare, Gamepad, LayoutDashboard, LucideLightbulb, LucideUserSquare } from "lucide-react"
-import { Link } from "react-router-dom"
 const asideItems = [
     { name: 'Dashboard', link: '/', icon: <LayoutDashboard /> },
     { name: 'Community', link: '/', icon: <LucideUserSquare /> },
